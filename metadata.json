@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Assistant",
+  "description": "An AI smart assistant for writing, translation, and summarization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
